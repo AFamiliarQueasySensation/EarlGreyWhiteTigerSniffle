@@ -1,5 +1,6 @@
 # EarlGreyWhiteTigerSniffle
-Image Down Scale with Java
+Image Down Scale with Java.
+
 
 How to Use
 ======================
